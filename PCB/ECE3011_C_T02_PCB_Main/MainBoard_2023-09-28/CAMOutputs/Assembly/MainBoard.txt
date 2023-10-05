@@ -1,0 +1,18 @@
+Partlist exported from C:/Users/santi/OneDrive/Desktop/GT/ECE 3011/ECE3011_C_T02_PCB_Main/MainBoard.sch at 9/27/2023 10:58 PM
+
+Qty Value               Device                          Package              Parts                                 Description                 POPULARITY PROD_ID    SF_SKU    SPICEPREFIX VALUE
+5                       PINHD-1X2                       1X02                 LED1, LED2, LED3, LED4, SPEAKER(0.5W) PIN HEADER                  98                                               
+1                       PINHD-1X5                       1X05                 PIANO_I2C                             PIN HEADER                  69                                               
+1                       PINHD-1X6                       1X06                 IMU_SPI                               PIN HEADER                  79                                               
+1                       PINHD-2X5                       2X05                 AMPD                                  PIN HEADER                  35                                               
+1   1.8k                R-US_0207/10                    0207/10              R4                                    RESISTOR, American symbol   36                              R                
+1   10k                 POTENTIOMETER-PTH-9MM-1/20W-20% POT-PTH-ALPS         VR1                                   Potentiometer (Pot)                    RES-09177  COM-09288             10k  
+1   2.7k                R-US_0207/10                    0207/10              R9                                    RESISTOR, American symbol   36                              R                
+1   240                 R-US_0207/10                    0207/10              R6                                    RESISTOR, American symbol   36                              R                
+1   470                 R-US_0207/10                    0207/10              R11                                   RESISTOR, American symbol   36                              R                
+1   715                 R-US_0207/10                    0207/10              R8                                    RESISTOR, American symbol   36                              R                
+5   750                 R-US_0207/10                    0207/10              R1, R2, R3, R7, R10                   RESISTOR, American symbol   36                              R                
+2   CONN_22_PTH         CONN_22_PTH                     1X22                 ACCESS, MICRO_BIT                     Standard 22-pin 0.1" header            CONN-13453                            
+1   POWER_JACKPTH_BREAD POWER_JACKPTH_BREAD             POWER_JACK_PTH_BREAD POWER_JACK                            Power Jack Connector                   COMP-13253                            
+4   SERVO               SERVO                           1X03                 SERVO_0, SERVO_1, SERVO_2, SERVO_3    Servo Motor                                                                  
+3   V_REG_317SINK       V_REG_317SINK                   TO220-ADJ            VREG1, VREG2, VREG3                   Voltage Regulator                                                            
