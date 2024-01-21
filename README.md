@@ -10,10 +10,10 @@ Comprising a team of four students—three specializing in Electrical Engineerin
 In the context of this collaborative effort, I assumed a leadership role in spearheading the software development aspect of the project. This multifaceted undertaking served as the focal point of our endeavors within the framework of ECE 3011 - Design Fundamentals.
 
 ### Link to YouTube Video Demonstration: 
-![Youtube_video_link](https://youtu.be/gud--ybyr-s?si=2pJu3Hc5zI2o3BWv)
+https://youtu.be/gud--ybyr-s?si=2pJu3Hc5zI2o3BWv
 
 ### Link to Final Document PDF: 
-![Documentation_pdf](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/ECE3011%20Team%20C2%20Final%20Document%20Package.pdf)
+https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/ECE3011%20Team%20C2%20Final%20Document%20Package.pdf
 
 Document containing the (1) Design Document,(2) Lesson Plan, and (3) BOM
 
