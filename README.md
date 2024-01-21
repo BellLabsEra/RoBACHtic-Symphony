@@ -17,4 +17,4 @@ Document containing the (1) Design Document,(2) Lesson Plan, and (3) BOM
 
 Front View Pictures:
 
-![https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Front_View_of_RoBachtic_Symphony_Final_Build_pic1.png]
+![Front_View_Pic](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Front_View_of_RoBachtic_Symphony_Final_Build_pic1.png)
