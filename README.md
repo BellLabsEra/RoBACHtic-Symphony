@@ -11,7 +11,7 @@ In the context of this collaborative effort, I assumed a leadership role in spea
 
 ## Link to YouTube Video Demonstration: https://youtu.be/gud--ybyr-s?si=2pJu3Hc5zI2o3BWv
 
-## Link to Final Document PDF: 
+## Link to Final Document PDF: https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/ECE3011%20Team%20C2%20Final%20Document%20Package.pdf
 
 Document containing the (1) Design Document,(2) Lesson Plan, and (3) BOM
 
