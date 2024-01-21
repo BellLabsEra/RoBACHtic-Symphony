@@ -1,6 +1,7 @@
 # RoBACHtic-Symphony
 ECE 3011 Design Fundamentals Project
 
+## Project Description
 
 In the realm of junior-design team initiatives, we undertook a project focused on the development of an educational robot kit. This kit, specifically designed for 5th-grade students, imparts comprehensive knowledge on discerning a violin's bow movement, placement, and techniques—particularly bow posture—while performing musical compositions featuring diverse notes. The device seamlessly integrates with a MIDI piano keyboard, utilizing user input to produce two outputs: a robotic arm executing bow movements corresponding to the "mapped" string and an audio sample replicating the played note.
 
@@ -8,13 +9,20 @@ Comprising a team of four students—three specializing in Electrical Engineerin
 
 In the context of this collaborative effort, I assumed a leadership role in spearheading the software development aspect of the project. This multifaceted undertaking served as the focal point of our endeavors within the framework of ECE 3011 - Design Fundamentals.
 
+### Link to YouTube Video Demonstration: 
+![Youtube_video_link](https://youtu.be/gud--ybyr-s?si=2pJu3Hc5zI2o3BWv)
 
-## Link to YouTube Video Demonstration: https://youtu.be/gud--ybyr-s?si=2pJu3Hc5zI2o3BWv
-
-## Link to Final Document PDF: https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/ECE3011%20Team%20C2%20Final%20Document%20Package.pdf
+### Link to Final Document PDF: 
+![Documentation_pdf](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/ECE3011%20Team%20C2%20Final%20Document%20Package.pdf)
 
 Document containing the (1) Design Document,(2) Lesson Plan, and (3) BOM
 
-Front View Pictures:
+### Front View Pictures:
 
-![Front_View_Pic](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Front_View_of_RoBachtic_Symphony_Final_Build_pic1.png)
+![Front_View_Pic1](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Front_View_of_RoBachtic_Symphony_Final_Build_pic1.png)
+
+![Front_View_Pic2](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Front_View_of_RoBachtic_Symphony_Final_Build_pic2.png)
+
+### Labeled Picture:
+
+![Labeled_Picture](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Alt_View_of_RoBachtic_Symphony_Final_Build_pics.png)
